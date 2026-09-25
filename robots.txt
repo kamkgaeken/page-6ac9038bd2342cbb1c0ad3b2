@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.heyue004.cn/sitemap.xml
